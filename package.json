@@ -1,0 +1,34 @@
+{
+  "name": "dblaccounting",
+  "version": "1.0.0",
+  "description": "Double Accounting - Server part",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "sequelize": "^6.5.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janine65/dblAccounting.git"
+  },
+  "keywords": [
+    "double",
+    "accounting",
+    "doppelte",
+    "buchführung"
+  ],
+  "author": "Janine Franken",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Janine65/dblAccounting/issues"
+  },
+  "homepage": "https://github.com/Janine65/dblAccounting#readme"
+}
